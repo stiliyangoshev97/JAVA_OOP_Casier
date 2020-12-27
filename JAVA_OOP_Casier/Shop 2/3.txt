@@ -1,0 +1,11 @@
+----------------------
+Receipt ID: 3
+Receipt Made On: 2019-05-21
+Good Sold: Cheese
+Cheese price is: 3.0
+Quantity: 2
+Final price: 6.0
+Number of receipts: 3
+Cashier who sold the good: Ivet
+Cashier Ivet working on paydesk Cashier Desk 3
+----------------------
